@@ -220,7 +220,7 @@ include('db.php');
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
-							<h4 class="cbp-ig-title">WIFI<br>COVERAGE</h4>
+							<h4 class="cbp-ig-title">WIFI<br> COVERAGE</h4>
 							<span class="cbp-ig-category">Quick Check Inn</span>
 						</div>
 					</li>
@@ -290,16 +290,20 @@ include('db.php');
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
 					<li>
-						<img src="images/teams1.jpg" alt=" " class="img-responsive" />
+						<img src="images/teams1.jpg" alt=" " class="img-responsive"
+							style="width: 120px; height: 120px;" />
 					</li>
 					<li>
-						<img src="images/teams2.jpg" alt=" " class="img-responsive" />
+						<img src="images/teams2.jpg" alt=" " class="img-responsive"
+							style="width: 120px; height: 120px;" />
 					</li>
 					<li>
-						<img src="images/teams3.jpg" alt=" " class="img-responsive" />
+						<img src="images/teams3.jpg" alt=" " class="img-responsive"
+							style="width: 120px; height: 120px;" />
 					</li>
 					<li>
-						<img src="images/teams4.jpg" alt=" " class="img-responsive" />
+						<img src="images/teams4.jpg" alt=" " class="img-responsive"
+							style="width: 120px; height: 120px;" />
 					</li>
 				</ul>
 				<div class="resp-tabs-container">
@@ -345,7 +349,7 @@ include('db.php');
 						<div class="col-md-6 team-img-w3-agile">
 						</div>
 						<div class="col-md-6 team-Info-agileits">
-							<h4>Ivan Simpson</h4>
+							<h4>Anna Simpson</h4>
 							<span>Manager</span>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
 								ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
